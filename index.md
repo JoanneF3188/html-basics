@@ -1,6 +1,6 @@
 # HTML Basics
 ---
-## The "frontend" of a webpage consists of:
+## The "frontend" of a webp age consists of:
 * HTML = HyperText Markup Language
   * content
 * CSS = Cascading Style Sheet
